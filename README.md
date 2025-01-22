@@ -11,7 +11,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-040f04?style=for-the-badge&logo=css3)
 ![HTML](https://img.shields.io/badge/-HTML-040f04?style=for-the-badge&logo=HTML5)
 
-![Snake animation](https://github.com/SergeyGolang/SergeyGolang/blob/output/github-contribution-grid-snake.svg)
 
 ### Courses completed and advanced training
 
