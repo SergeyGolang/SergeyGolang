@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile!
 #### Here I share my projects and code created using Golang. I would be happy to have you among my followers and hope you find something useful here. Thank you for visiting!
-### Languages and Tools
+### Languages and Tools:
 ![Golang](https://img.shields.io/badge/-Golang-040f04?style=for-the-badge&logo=golang)
 ![Postman](https://img.shields.io/badge/-Postman-040f04?style=for-the-badge&logo=Postman)
 ![SQL](https://img.shields.io/badge/-SQL-040f04?style=for-the-badge&logo=MySQL)
@@ -12,7 +12,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-040f04?style=for-the-badge&logo=HTML5)
 
 
-### Courses completed and advanced training
+### Courses completed and advanced training:
 
 
 ### My statistics on СodeWars
