@@ -21,7 +21,7 @@
 
 [SQL Academy certificate](https://github.com/SergeyGolang/SergeyGolang/blob/main/courses%20and%20diplomas/SqlCertificate%20(1).pdf)
 
-[Networks and computing systems](https://github.com/SergeyGolang/completed_courses/blob/main/Certificate%20for%20Cisco.pdf)
+[Networks and computing systems](https://github.com/SergeyGolang/SergeyGolang/blob/main/courses%20and%20diplomas/Certificate%20for%20Cisco.pdf)
 
 [Doctor Web Security Space](https://github.com/SergeyGolang/SergeyGolang/blob/main/courses%20and%20diplomas/photo_2023-03-23_10-21-55.jpg)
 
