@@ -1,3 +1,4 @@
+![Header](https://github.com/SergeyGolang/sergeyGolang/blob/main/assets/Digital_rain_banner.gif)
 ## Welcome to my GitHub profile!
 #### Here I share my projects and code created using Golang. I would be happy to have you among my followers and hope you find something useful here. Thank you for visiting!
 ### Languages and Tools:
